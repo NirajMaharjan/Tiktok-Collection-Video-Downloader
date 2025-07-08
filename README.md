@@ -23,7 +23,7 @@ The script will:
         https://vm.tiktok.com/abcdefg
         https://www.tiktok.com/@another_user/video/9876543210
 4️⃣ Run the Downloader
-- python tiktok_downloader.py urls.txt
+- python download_all.py urls.txt
 5️⃣ Get Your Files
 📁 downloads/videos/     ← Your downloaded videos
 📁 audio/               ← Converted audio files (WAV)
