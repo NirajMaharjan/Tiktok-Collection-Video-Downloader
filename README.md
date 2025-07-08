@@ -23,22 +23,22 @@ Support
 This tool automates the process of downloading TikTok videos in bulk and converting them to high-quality WAV audio files. Perfect for researchers, content creators, and anyone who needs to process multiple TikTok videos efficiently.
 Why use this over manual methods?
 
-🚀 Batch Processing: Download hundreds of videos automatically/
-🎵 Audio Conversion: Automatic conversion to WAV format/
-📊 Progress Tracking: Real-time progress and detailed logging/
-🔄 Error Recovery: Continues processing even if some downloads fail/
-📁 Organized Output: Clean file organization with numbered naming/
-🛠️ Extensible: Easy to modify and extend for your needs/
+🚀 Batch Processing: Download hundreds of videos automatically</br>
+🎵 Audio Conversion: Automatic conversion to WAV format</br>
+📊 Progress Tracking: Real-time progress and detailed logging</br>
+🔄 Error Recovery: Continues processing even if some downloads fail</br>
+📁 Organized Output: Clean file organization with numbered naming</br>
+🛠️ Extensible: Easy to modify and extend for your needs</br>
 
-✨ Features/
-Core Functionality/
+✨ Features</br>
+Core Functionality</br>
 
-✅ Bulk Download: Process multiple TikTok URLs from a text file/
-✅ Audio Conversion: Convert videos to high-quality WAV files (44.1kHz, 16-bit, stereo)/
-✅ Smart Naming: Organized file naming with sequential numbering/
-✅ Metadata Preservation: Downloads video info, descriptions, and thumbnails/
-✅ Quality Control: Configurable video quality settings/
-✅ Progress Tracking: Real-time progress with detailed logging/
+✅ Bulk Download: Process multiple TikTok URLs from a text file</br>
+✅ Audio Conversion: Convert videos to high-quality WAV files (44.1kHz, 16-bit, stereo)</br>
+✅ Smart Naming: Organized file naming with sequential numbering</br>
+✅ Metadata Preservation: Downloads video info, descriptions, and thumbnails</br>
+✅ Quality Control: Configurable video quality settings</br>
+✅ Progress Tracking: Real-time progress with detailed logging</br>
 
 Advanced Features
 
